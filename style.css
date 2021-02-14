@@ -1,0 +1,13 @@
+body{
+    background-color: lawngreen;
+}
+#p1{
+border-width: 3px;
+border-style: dashed;
+border-color: white;
+}
+#p2{
+    border-width: 3px;
+    border-style: dashed;
+    border-color: white;
+    }
